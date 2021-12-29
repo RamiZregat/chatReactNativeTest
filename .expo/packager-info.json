@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19003,
+  "expoServerPort": null,
+  "packagerPort": 19001,
+  "webpackServerPort": 19007,
+  "expoServerNgrokUrl": "https://g7-sbm.anonymous.chatreactnativetest.exp.direct",
+  "packagerNgrokUrl": "https://packager.g7-sbm.anonymous.chatreactnativetest.exp.direct",
+  "ngrokPid": 9881,
+  "packagerPid": null
+}
